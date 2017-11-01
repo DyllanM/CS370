@@ -1,0 +1,19 @@
+﻿Build started 11/1/2017 1:22:05 PM.
+     1>Project "D:\DigiStuff\Cur_Sem\CS370\HW1\Framework\IFX_Sandbox\IFX_Sandbox.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /I"C:\wxWidgets-2.8.12/lib/vc_lib/mswd" /I"C:\wxWidgets-2.8.12/include/msvc" /I"C:\wxWidgets-2.8.12/include" /I"C:\Program Files (x86)\Visual Leak Detector\include" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D __WXMSW__ /D _WINDOWS /D _DEBUG /D __WXDEBUG__ /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt ..\src\IFXFrame.cpp
+         IFXFrame.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\DigiStuff\Cur_Sem\CS370\HW1\Framework\IFX_Sandbox\Debug\IFX_Sandbox.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\wxWidgets-2.8.12/lib/vc_lib" /LIBPATH:"C:\Program Files (x86)\Visual Leak Detector\lib\Win32" wxmsw28d_core.lib wxbase28d.lib wxtiffd.lib wxjpegd.lib wxpngd.lib wxzlibd.lib wxregexd.lib wxexpatd.lib winmm.lib comctl32.lib rpcrt4.lib odbc32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"D:\DigiStuff\Cur_Sem\CS370\HW1\Framework\IFX_Sandbox\Debug\IFX_Sandbox.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\DigiStuff\Cur_Sem\CS370\HW1\Framework\IFX_Sandbox\Debug\IFX_Sandbox.lib" /MACHINE:X86 Debug\IFXApp.obj
+         Debug\IFXFrame.obj
+         Debug\IFXPropertyPanel.obj
+         Debug\Image2D.obj
+         Debug\ImRecipe.obj
+         Debug\ImStage.obj
+         Debug\InvertStage.obj
+         IFX_Sandbox.vcxproj -> D:\DigiStuff\Cur_Sem\CS370\HW1\Framework\IFX_Sandbox\Debug\IFX_Sandbox.exe
+     1>Done Building Project "D:\DigiStuff\Cur_Sem\CS370\HW1\Framework\IFX_Sandbox\IFX_Sandbox.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:06.59
